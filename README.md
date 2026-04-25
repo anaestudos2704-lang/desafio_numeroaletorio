@@ -1,6 +1,16 @@
 ﻿# desafio_numeroaletorio
 🎯 Jogo de Adivinhação em Python
 
+# Integrantes:
+Laura Marques: 
+Pedro Henrique:https://github.com/FR6YC0DpCrePkWyKP
+Thais Santos : https://github.com/Thaizsantos
+Giulia Rocha: https://github.com/giulialinda01
+Isabella Neris: https://github.com/fariasnerisisabella-source
+
+#Pre requisitos para rodar o codigo:
+Versão do Python: Python 3.14.2
+
 Um projeto simples e interativo em Python onde o jogador precisa adivinhar um número secreto gerado aleatoriamente pelo computador.
 
 📌 Sobre o projeto
