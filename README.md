@@ -2,7 +2,7 @@
 🎯 Jogo de Adivinhação em Python
 
 # Integrantes:
-Laura Marques: 
+Laura Marques: https://github.com/lauraribeiromarques2007-hub
 Pedro Henrique:https://github.com/FR6YC0DpCrePkWyKP
 Thais Santos : https://github.com/Thaizsantos
 Giulia Rocha: https://github.com/giulialinda01
